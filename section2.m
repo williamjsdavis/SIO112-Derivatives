@@ -41,7 +41,7 @@ set(findall(gcf,'-property','FontSize'),'FontSize',big_font)
 
 % Testing
 
-z_example = Dual(34,101);
+z_example = Dual(34,1);
 
 disp(st(z_example))
 disp(in(z_example))
